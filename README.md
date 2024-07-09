@@ -1,5 +1,4 @@
-## Hi there 👋
-
+情報学部に通う大学生です。
 <!--
 **X22054/x22054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
