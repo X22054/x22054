@@ -1,14 +1,25 @@
-<!--
-**X22054/x22054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/x22054">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=k22027&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/k22027">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k22027&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/k22027">
+  <img align="left" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k22027&theme=dracula" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/k22027">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=k22027&theme=onedark)](https://github-profile-trophy.vercel.app/?username=k22027&theme=dracula)
+
+[![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+[![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+</a>
+<a href="https://github.com/k22027">
+
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20k22027)](https://github.com/k22027)
+
+</a>
