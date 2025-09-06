@@ -11,7 +11,7 @@
 
 <a href="https://github.com/x22054">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=k22027&theme=onedark)](https://github-profile-trophy.vercel.app/?username=k22027&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=x22027&theme=onedark)](https://github-profile-trophy.vercel.app/?username=k22027&theme=dracula)
 
 [![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 [![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -20,6 +20,6 @@
 </a>
 <a href="https://github.com/k22027">
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20k22027)](https://github.com/k22027)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20x22054)](https://github.com/x22054)
 
 </a>
